@@ -7,7 +7,7 @@ void printMyName () {
 }
 
 void printMyIndex () {
-	
+	count<<"142084";
 }
 
 int main () {
